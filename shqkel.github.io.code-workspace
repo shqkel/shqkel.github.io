@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.preferredDarkColorTheme": "Community Material Theme Lighter",
+		"workbench.colorTheme": "Visual Studio Light"
+	}
+}
